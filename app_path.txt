@@ -1,0 +1,7 @@
+run_dir=YOUR_RUN_DIR
+config_dir=YOUR_CONFIG_DIR
+recon_dir=YOUR_RECON_DIR
+pge_dir=YOUR_PGE_DIR
+rdsexe_dir=YOUR_RDS_EXECUTION_DIR
+spiral_recon_dir=YOUR_SPIRAL_RECON_DIR
+rds_data_dir=YOUR_RDS_DATA_DIR

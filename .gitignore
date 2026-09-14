@@ -1,0 +1,7 @@
+# GE scanner configuration
+config/
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosav

@@ -1,0 +1,5 @@
+pge_dir=YOUR_PGE_DIR
+dda=20
+pislquant=10
+entryNo=0
+nint=1
