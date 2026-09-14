@@ -1,4 +1,4 @@
-Graphical User Interface for Pulseq Sequence Programming on GE HealthCare MRI Systems
+# Graphical User Interface for Pulseq Sequence Programming on GE HealthCare MRI Systems
 
 This repository contains code and files developed for the implementation of Pulseq sequences on GE HealthCare MRI systems. The GUI was part of a Medical Science (Radiology) research project at the University of Cambridge.
 
@@ -27,6 +27,16 @@ This repository includes code for:
 - TOPPE (https://github.com/toppemri/toppe)
 - MIRT (https://github.com/JeffFessler/MIRT)
 - GE HealthCare EPIC (proprietary)
+
+## GUI
+
+The GUI includes three panels, the sequence generation panel, the GRE image reconstruction panel, and the spiral image reconstruction panel. 
+
+![Sequence Generation] (images/sequence_panel.png)
+
+![GRE Reconstruction] (images/gre_recon_panel.png)
+
+![Spiral Reconstruction] (images/spiral_recon_panel.png)
 
 ## Acknowledgements
 
