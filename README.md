@@ -32,11 +32,11 @@ This repository includes code for:
 
 The GUI includes three panels, the sequence generation panel, the GRE image reconstruction panel, and the spiral image reconstruction panel. 
 
-![Sequence Generation] (images/sequence_panel.png)
+![Sequence Generation](images/sequence_panel.png)
 
-![GRE Reconstruction] (images/gre_recon_panel.png)
+![GRE Reconstruction](images/gre_recon_panel.png)
 
-![Spiral Reconstruction] (images/spiral_recon_panel.png)
+![Spiral Reconstruction](images/spiral_recon_panel.png)
 
 ## Acknowledgements
 
