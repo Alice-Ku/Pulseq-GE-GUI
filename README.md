@@ -34,11 +34,17 @@ The GUI includes three panels, the sequence generation panel, the GRE image reco
 
 ![Sequence Generation](images/sequence_panel.png)
 
+*Figure 1. Sequence generation panel.*
+
 ![GRE Reconstruction](images/gre_recon_panel.png)
+
+*Figure 2. GRE reconstruction panel.*
 
 ![Spiral Reconstruction](images/spiral_recon_panel.png)
 
+*Figure 3. Spiral reconstruction panel.*
+
 ## Acknowledgements
 
-This project is based on and adapts code from the official Pulseq on GE v2 repository (https://github.com/HarmonizedMRI/SequenceExamples-GE/tree/main)
+This project is based on and adapts code from the official Pulseq on GE v2 repository (https://github.com/HarmonizedMRI/SequenceExamples-GE/tree/main).
 
