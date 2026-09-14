@@ -1,4 +1,4 @@
-Graphical User Interface for Pulseq Sequence Programming on GE HealthCare MRI Systems
+# Graphical User Interface for Pulseq Sequence Programming on GE HealthCare MRI Systems
 
 This repository contains code and files developed for the implementation of Pulseq sequences on GE HealthCare MRI systems. The GUI was part of a Medical Science (Radiology) research project at the University of Cambridge.
 
